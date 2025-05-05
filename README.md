@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I am Mateusz Śliwowski</h1>
+<h1 align="center">Hi there 👋, I am Mateusz Śliwowski</h1>
 <h3 align="center">Fullstack developer. Cyber security passionate.</h3>
 
 ## 🙋‍♂️ About me
