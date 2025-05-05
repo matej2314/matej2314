@@ -7,7 +7,7 @@ I’m passionate about web development and continuously expand my skills by lear
 
 ## <img src="https://api.iconify.design/mdi:tools.svg?color=%23ff0000" width="30" height="30" alt="tools"/>&nbsp; Tech stack:
 
-### <img src="https://api.iconify.design/lineicons:dev.svg?color=%2342dc8f" width="25" height="25" alt="developer"/> Development stack:
+### <img src="https://api.iconify.design/lineicons:dev.svg?color=%2342dc8f" width="28" height="28" alt="developer"/> Development stack:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20"/>&nbsp;&nbsp;
@@ -39,7 +39,7 @@ I’m passionate about web development and continuously expand my skills by lear
 </p>
 <br />
 
-### <img src="https://api.iconify.design/carbon:ibm-secure-infrastructure-on-vpc-for-regulated-industries.svg?color=%23e345f0" width="25" height="25" alt="secure infrastructure"/> DevOps stack:
+### <img src="https://api.iconify.design/carbon:ibm-secure-infrastructure-on-vpc-for-regulated-industries.svg?color=%23e345f0" width="28" height="28" alt="secure infrastructure"/> DevOps stack:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/>&nbsp;&nbsp;
@@ -63,7 +63,7 @@ I’m passionate about web development and continuously expand my skills by lear
 </p>
 <br />
 
-### <img src="https://api.iconify.design/mdi:security.svg?color=%23ff0000" width="24" height="24" alt="security"/> Security:
+### <img src="https://api.iconify.design/mdi:security.svg?color=%23ff0000" width="28" height="28" alt="security"/> Security:
 
 <p align="left">
   <img src="images/owasp.png" width="20" alt="OWASP Logo"/>&nbsp;&nbsp;
