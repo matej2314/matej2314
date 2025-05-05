@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I am Mateusz Śliwowski</h1>
 <h3 align="center">Fullstack developer. Cyber security passionate.</h3>
 
-## About me
+## 🙋‍♂️ About me
 
 I’m passionate about web development and continuously expand my skills by learning new technologies and building demo projects — each one incorporating the latest concepts I've explored. I'm also deeply interested in cybersecurity, especially web application security, and regularly deepen my knowledge in this area. In my free time, I enjoy reading books and catching up on the latest news from streaming platforms. 😊
 
