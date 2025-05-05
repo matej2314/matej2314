@@ -78,16 +78,16 @@ I’m passionate about web development and continuously expand my skills by lear
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/security-checked.png" width="25" alt="Secure Headers Icon"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=lsZBoVE2zMo3&format=png&color=000000" width="25" alt="Secure Headers Icon"/>&nbsp;&nbsp;
   Secure Headers & CORS
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/inspection.png" width="25" alt="Manual Testing Icon"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=xMc8jgZMX7FZ&format=png&color=00EF3A" width="30" alt="Manual Testing Icon"/>&nbsp;&nbsp;
   Manual Penetration Testing
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/ios-filled/50/000000/robot-2.png" width="25" alt="Automated Testing Icon"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=GBu1KXnCZZ8j&format=png&color=000000" width="30" alt="Automated Testing Icon"/>&nbsp;&nbsp;
   Automated Security Testing
 </p>
