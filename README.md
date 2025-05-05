@@ -63,22 +63,22 @@ I’m passionate about web development and continuously expand my skills by lear
 ### Security:
 
 <p align="left">
-  <img src="https://icon-icons.com/icons2/2480/PNG/512/owasp_logo_icon_149387.png" width="25" alt="OWASP Logo"/>&nbsp;&nbsp;
+  <img src="images/owasp.png" width="30" alt="OWASP Logo"/>&nbsp;&nbsp;
   OWASP Top 10
 </p>
 
 <p align="left">
-  <img src="https://icons8.com/icon/54087/kali-linux" width="25" alt="Kali Linux Logo"/>&nbsp;&nbsp;
+  <img src="images/kali_linux.png" width="30" alt="Kali Linux Logo"/>&nbsp;&nbsp;
   Kali Linux
 </p>
 
 <p align="left">
-  <img src="https://icon-icons.com/icons2/2699/PNG/512/burp_suite_logo_icon_168353.png" width="25" alt="Burp Suite Logo"/>&nbsp;&nbsp;
+  <img src="images/burp_suite.png" width="30" alt="Burp Suite Logo"/>&nbsp;&nbsp;
   Burp Suite
 </p>
 
 <p align="left">
-  <img src="https://img.icons8.com/?size=100&id=lsZBoVE2zMo3&format=png&color=000000" width="25" alt="Secure Headers Icon"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/?size=100&id=lsZBoVE2zMo3&format=png&color=000000" width="30" alt="Secure Headers Icon"/>&nbsp;&nbsp;
   Secure Headers & CORS
 </p>
 
