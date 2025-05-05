@@ -94,3 +94,9 @@ I’m passionate about web development and continuously expand my skills by lear
 </p>
 
 ## What I'm currently working on?
+
+I’m currently learning both Python and Next.js. I chose Next.js because it’s a natural extension of React.js, enabling me to build full-stack applications. This will allow me to move away from using Express.js solely as an API and explore new solutions. As for Python, it’s a versatile language that can be used for backend development, creating pentesting payloads, and building auxiliary applications on a VPS.
+
+## Future plans
+
+In the future, once I’m more familiar with Next.js, I plan to refactor my portfolio application. It’s the first app I built using React.js, and it needs a thorough update. Additionally, I am actively looking for work. While I don’t have commercial experience as a web developer yet, I believe my demo projects will be well-received by potential employers.
